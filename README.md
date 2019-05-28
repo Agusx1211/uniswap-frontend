@@ -32,6 +32,8 @@ Rename `.env.example` to `.env` and fill in the appropriate variables.
 yarn start
 # or
 yarn start:rinkeby
+# or
+yarn start:ropsten
 ```
 
 More robust support for other testnets is in the works!
