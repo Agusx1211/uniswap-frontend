@@ -302,6 +302,14 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xaE76c84C9262Cdb9abc0C2c8888e62Db8E22A0bF'
     }
+  },
+  3: {
+    '0x2f45b6fb2f28a73f110400386da31044b2e953d4': {
+      [NAME]: 'Inifinite Test Token',
+      [SYMBOL]: 'TEST',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x03d7d996b6618ab07733fd330a9a276bc9bf7a10'
+    }
   }
 }
 
