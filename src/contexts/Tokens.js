@@ -304,6 +304,12 @@ const INITIAL_TOKENS_CONTEXT = {
     }
   },
   3: {
+    ETH: {
+      [NAME]: 'Ethereum',
+      [SYMBOL]: 'ETH',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: null
+    },
     '0x2f45b6fb2f28a73f110400386da31044b2e953d4': {
       [NAME]: 'Inifinite Test Token',
       [SYMBOL]: 'TEST',
