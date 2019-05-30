@@ -315,6 +315,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [SYMBOL]: 'TEST',
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x03d7d996b6618ab07733fd330a9a276bc9bf7a10'
+    },
+    '0x6710d597fd13127a5b64eebe384366b12e66fdb6': {
+      [NAME]: 'Distributed Inifinite Test Token',
+      [SYMBOL]: 'DEST',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x4b6884a843a7fc624475c8da40f7886554a175d9'
     }
   }
 }
